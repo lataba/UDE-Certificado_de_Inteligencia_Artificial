@@ -1,1 +1,1 @@
-# UDE-Certificado_de_Inteligencia_Artificial
+# UDE-IA_Certificate
